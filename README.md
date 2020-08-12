@@ -4,14 +4,14 @@
 
 - ❤️ Eu amo estudar programação
 - 💻 Atualmente estou estudando JavaScript e D3.js
-- 👩‍💻 Busco colaborar com projetos usando D3.js
+- 👩‍💻 Busco colaborar com projetos usando JavaScript
 - ✉️ Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CibeleFonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibele-fonseca/)](https://www.linkedin.com/in/cibele-fonseca/)
 
 ### Hi there 👋
 
 - ❤️ I love studying programming
 - 💻 I’m currently studying JavaScript and D3.js
-- 👩‍💻 I’m looking to collaborate on projects using D3.js
+- 👩‍💻 I’m looking to collaborate on projects using JavaScript
 - ✉️ Contact me: [![Linkedin Badge](https://img.shields.io/badge/-CibeleFonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibele-fonseca/)](https://www.linkedin.com/in/cibele-fonseca/)
 
 <!--
